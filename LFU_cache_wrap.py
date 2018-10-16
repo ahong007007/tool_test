@@ -3,7 +3,7 @@
 """
 -------------------------------------------------
     Project_name :     git
-    File Name    :     LRU_cache_wrap
+    File Name    :     LFU_cache_wrap
     Description  :
     Author       :     chenhong
     date         :     2018/10/16

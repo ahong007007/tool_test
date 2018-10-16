@@ -14,7 +14,8 @@ __author__ = ''
 import collections
 
 # ***************************
-#
+# 参考https://github.com/python/cpython/blob/3.7/Lib/functools.py
+# @functools.lru_cache(maxsize=128, typed=False)
 # collections.OrderedDic实现LRU。
 # 1、没有解决并发时多线程读写
 # 2、没有设置过期时间
